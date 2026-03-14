@@ -1,4 +1,3 @@
-msg:¡Conexión con Cloud establecida!
-msg:Sincronizando base de datos...
-color:DodgerBlue
-msg:Sistema actualizado correctamente.
+msg:Iniciando actualización completa...
+msg:Descargando nuevos binarios V 1.1.2
+full-update
