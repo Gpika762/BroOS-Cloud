@@ -1,3 +1,1 @@
-msg:Iniciando actualización completa...
-msg:Descargando nuevos binarios V 1.1.2
-full-update
+
